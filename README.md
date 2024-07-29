@@ -1,4 +1,9 @@
 # Intel-oneAPI
+
+# Certificate of Achievement
+
+![image](https://github.com/user-attachments/assets/8615397e-189b-4575-bd88-951340a16d5b)
+
 # OneAPI Water Quality Analysis
 
 This repository contains scripts to analyze water quality datasets using Intel's oneAPI Data Analytics Library (oneDAL) and traditional Python libraries like Pandas, Matplotlib, and Seaborn.
